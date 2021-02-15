@@ -22,7 +22,7 @@ Ethvert projekt har brug for at være organiseret. At smide alle nye CSS-regel d
 **Lav en liste med templates**<br>
 Beskriv hvilke templates(ex. *header*) der skal udvikles, i første omgang koncentrerer vi os om den mobile udgave(se style guide). List herunder de templates du er kommet frem til skal udvikles. 
 
-1. xxx
+1. Footer
 2. xxx
 3. xxx
 
